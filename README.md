@@ -1,6 +1,5 @@
 # PRODIGY_CS_02
 Task 2: Image Encryption & Decryption using Pixel Manipulation
-
 # Image Encryption and Decryption Using XOR
 
 This Python project demonstrates a basic form of image encryption using the XOR bitwise operation. It allows you to encrypt and decrypt an image by applying a secret key (an integer value between 0 and 255) to scramble and unscramble pixel data.
